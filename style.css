@@ -1,0 +1,27 @@
+.gang {
+  position: absolute;
+  top: 70vh;
+  left: 70vw;
+}
+
+.begin{
+  color: white;
+}
+
+.straat{
+  position: absolute;
+  top: 50vh;
+  left: 20vw;
+}
+
+.ruin{
+  position: absolute;
+  top: 10vh;
+  left: 25vw;
+}
+
+.taliban{
+  position:
+  top: 30vh;
+  left: 60vw;
+}
